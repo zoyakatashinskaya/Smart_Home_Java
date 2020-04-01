@@ -1,5 +1,13 @@
 # Smart Home
 
+This is a student project where we were to implement the comand design pattern in Java.
+
+The task was to program a controller from a phone keyboard for 8 devices. Tests were also implemented.
+
+## UML diagram
+
+![Class Diagram Final](UML/out/UML-SmartHome-Final.png?raw=true "Class Diagram Final")
+
 You can navigate the menu with the numbers 0 to 9.
 0 is always the back button.
 In the devices-menu you can exit the program with pressing 0.
@@ -14,10 +22,6 @@ because the selected program has to finish first.
 Oven and Microwave oven: temperatures are possible from 1 to 250.
 
 Turn off for the Washing machine "soft" resets the device.
-
-## Final
-
-![Class Diagram Final](UML/out/UML-SmartHome-Final.png?raw=true "Class Diagram Final")
 
 ## Draft before coding
 
